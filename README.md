@@ -14,4 +14,7 @@ in order to create table and stored procedures.
 Two endpoints for creating and updating the task.
 
 https://localhost:7108/api/Task - http method POST
+
 https://localhost:7108/api/Task?{taskId} - http method PUT
+
+Test api through swagger on project startup.
