@@ -1,0 +1,39 @@
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\appsettings.json
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\RESTful Web Service.exe
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\RESTful Web Service.deps.json
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\RESTful Web Service.runtimeconfig.json
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\RESTful Web Service.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\RESTful Web Service.pdb
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\RESTful Web Service.csproj.AssemblyReference.cache
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\RESTful Web Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\RESTful Web Service.AssemblyInfoInputs.cache
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\RESTful Web Service.AssemblyInfo.cs
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\RESTful Web Service.csproj.CoreCompileInputs.cache
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\RESTful Web Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\RESTful Web Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\scopedcss\bundle\RESTful Web Service.styles.css
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\RESTful Web Service.csproj.CopyComplete
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\RESTful Web Service.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\refint\RESTful Web Service.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\RESTful Web Service.pdb
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\RESTful Web Service.genruntimeconfig.cache
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\obj\Debug\net6.0\ref\RESTful Web Service.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\DateTimeExtensions.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\de\DateTimeExtensions.resources.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\es\DateTimeExtensions.resources.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\ko\DateTimeExtensions.resources.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\pt\DateTimeExtensions.resources.dll
+C:\Users\EmilNenchev\source\repos\RESTful Web Service\RESTful Web Service\bin\Debug\net6.0\vi\DateTimeExtensions.resources.dll
